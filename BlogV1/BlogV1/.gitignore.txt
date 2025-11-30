@@ -1,0 +1,12 @@
+# Build folders
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Sensitive configs
+appsettings.json
+appsettings.Development.json
